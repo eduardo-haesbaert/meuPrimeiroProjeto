@@ -2,7 +2,7 @@
 
 Este projeto é um modelo de portfólio profissional desenvolvido com o objetivo de apresentar habilidades, experiências e projetos de forma visualmente atraente e organizada. É ideal para desenvolvedores, designers e outros profissionais que desejam ter uma presença digital marcante.
 
-![image] (assets/imagem-home)
+![image](assets/imagem-home.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
